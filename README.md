@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently exploring **Data Analytics**, **Cybersecurity** & the **MERN Stack**
+- 🔭 Currently exploring **Data Analytics** & **MERN Stack**
 - 🛠️ I build with **C / C++ / Python / Java / JavaScript**
 - 🌐 Into **REST APIs**, **Streamlit apps**, and clean code
 - 📬 Reach me at **shauryab212@gmail.com**
@@ -48,7 +48,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF6F00?style=flat-square&logo=googleanalytics&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E2E2E?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+
 
 ---
 
